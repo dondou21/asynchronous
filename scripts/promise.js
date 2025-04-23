@@ -14,7 +14,7 @@ const promise = new Promise((resolve, reject) =>{
 const promise = new Promise((resolve, reject) => {
     const randomNumber = Math.floor(Math.random() * 10);
 
-    setTimeout(() => {
+    setTimeout(() => { 
         if(randomNumber < 4) {
             resolve('Well Done!!!')
         }else {
