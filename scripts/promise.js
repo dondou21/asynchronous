@@ -21,6 +21,7 @@ const promise = new Promise((resolve, reject) => {
             reject('Oops! You Guessed Wrong!!!, Sorry')
         }
     })
+    console.log(randomNumber);
 });
 
 promise.then((value) => {
