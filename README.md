@@ -1,6 +1,5 @@
 ### This is The Gym program asynchronous
  
-
 ## Exercise 2 (Medium):
 Fetch 5 post titles from the JSONPlaceholder API and display them in the DOM.
 
