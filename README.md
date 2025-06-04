@@ -8,7 +8,7 @@ https://jsonplaceholder.typicode.com/posts
 
 💡 Task:
 Use fetch() to get all posts.
-
+ 
 Extract only the first 5 posts.
 
 Display their titles as a list on the page
