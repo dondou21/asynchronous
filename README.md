@@ -3,7 +3,7 @@
 ## Exercise 2 (Medium):
 Fetch 5 post titles from the JSONPlaceholder API and display them in the DOM.
 
-🌐 API:
+🌐 API: 
 https://jsonplaceholder.typicode.com/posts
  
 💡 Task:
